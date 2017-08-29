@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace FantasyFootball
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
+namespace FantasyFootball {
+	class Program {
+
+		static void Main(string[] args) {
+			Console.WriteLine("Test");
+			Console.ReadLine();
+		}
+
+	}
 }
