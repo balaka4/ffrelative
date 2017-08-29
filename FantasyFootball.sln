@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyFootball", "FantasyFootball\FantasyFootball.csproj", "{5288548A-4105-45F5-B7AA-72C10C62D8C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatsLoader", "StatsLoader\StatsLoader.csproj", "{FC2FD6A2-C2F6-41B5-AC95-8A1E5A475EB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTest", "ProjectTest\ProjectTest.csproj", "{EA09CB20-8CC4-494E-831A-8964F12DD3C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5288548A-4105-45F5-B7AA-72C10C62D8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5288548A-4105-45F5-B7AA-72C10C62D8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5288548A-4105-45F5-B7AA-72C10C62D8C7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FC2FD6A2-C2F6-41B5-AC95-8A1E5A475EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC2FD6A2-C2F6-41B5-AC95-8A1E5A475EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC2FD6A2-C2F6-41B5-AC95-8A1E5A475EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC2FD6A2-C2F6-41B5-AC95-8A1E5A475EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA09CB20-8CC4-494E-831A-8964F12DD3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA09CB20-8CC4-494E-831A-8964F12DD3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA09CB20-8CC4-494E-831A-8964F12DD3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA09CB20-8CC4-494E-831A-8964F12DD3C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace StatsLoader {
+namespace ProjectTest {
 	[TestClass]
 	public class UnitTest1 {
 
